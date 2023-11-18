@@ -1,4 +1,4 @@
-# Case---Churn
+Predictive Analytics Showdown: Unveiling the Power of Logistic Regression, Random Forest, and XGBoost in Churn Prediction
 
 # Churn Prediction Models and Hyperparameter Tuning
 
